@@ -1,5 +1,14 @@
 {
   "Lua.runtime.version": "LuaJIT",
   "Lua.workspace.library": ["${3rd}/love2d/library"],
-  "Lua.workspace.checkThirdParty": false
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.diagnostics.globals": [
+    "scoreFont",
+    "smallFont",
+    "push",
+    "player2Score",
+    "player1Score",
+    "player2Y",
+    "player1Y"
+  ]
 }
