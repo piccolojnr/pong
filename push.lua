@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-field
 -- push.lua v0.4
 
 -- Copyright (c) 2020 Ulysse Ramage
