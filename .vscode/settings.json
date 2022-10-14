@@ -9,6 +9,7 @@
     "player2Score",
     "player1Score",
     "player2Y",
-    "player1Y"
+    "player1Y",
+    "ballDY"
   ]
 }
